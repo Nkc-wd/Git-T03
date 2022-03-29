@@ -18,21 +18,3 @@
 <calories>900</calories>
 </food>
 <food>
-<name>The Asian bread</name>
-<price>$.50</price>
-<description>Homemade roties</description>
-<calories>500</calories>
-</food>
-<food>
-<name>Homestyle Breakfast</name>
-<price>$6.95</price>
-<description>Two eggs, bacon or sausage, toast, and our ever-popular hash browns</description>
-<calories>950</calories>
-</food>
-<food>
-<name>Dinner</name>
-<price>$1.95</price>
-<description>panner masala</description>
-<calories>700</calories>
-</food>
-</breakfast_menu>
