@@ -1,0 +1,2 @@
+#add backup file to the .gitignore file.
+*.orig
